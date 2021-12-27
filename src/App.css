@@ -1,0 +1,15 @@
+.App{
+  
+  
+  text-rendering: optimizeSpeed;
+  color: #3e3e48;
+  font-family: Goldplay,sans-serif;
+  line-height: 1.72;
+  min-height: 100vh;
+  height:auto;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  width: 100%;
+  position:fixed
+
+}
